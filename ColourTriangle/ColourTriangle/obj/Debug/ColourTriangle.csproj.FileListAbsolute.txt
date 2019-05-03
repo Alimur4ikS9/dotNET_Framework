@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\bin\Debug\ColourTriangle.exe.config
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\bin\Debug\ColourTriangle.exe
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\bin\Debug\ColourTriangle.pdb
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\obj\Debug\ColourTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\obj\Debug\ColourTriangle.Form1.resources
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\obj\Debug\ColourTriangle.Properties.Resources.resources
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\obj\Debug\ColourTriangle.csproj.GenerateResource.Cache
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\obj\Debug\ColourTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\obj\Debug\ColourTriangle.exe
+C:\Users\Acer\source\repos\ColourTriangle\ColourTriangle\obj\Debug\ColourTriangle.pdb

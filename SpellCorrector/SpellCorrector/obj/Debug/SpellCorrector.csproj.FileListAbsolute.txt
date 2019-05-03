@@ -1,0 +1,10 @@
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.Form1.resources
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.Properties.Resources.resources
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.csproj.GenerateResource.Cache
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.csproj.CoreCompileInputs.cache
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.exe.config
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.exe
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.pdb
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.exe
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.pdb
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\SpellCorrector\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.csprojResolveAssemblyReference.cache

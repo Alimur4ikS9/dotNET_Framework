@@ -1,0 +1,10 @@
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe.config
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\obj\Debug\FileBrowser.FileBrowser.resources
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.CoreCompileInputs.cache
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\obj\Debug\FileBrowser.exe
+D:\01_Alinur_Sabit\KBTU_2.2\NET\VisualStudio\FileBrowser\FileBrowser\obj\Debug\FileBrowser.pdb

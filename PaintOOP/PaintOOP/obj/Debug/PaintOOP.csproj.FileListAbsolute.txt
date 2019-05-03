@@ -1,0 +1,12 @@
+c:\users\acer\source\repos\PaintOOP\PaintOOP\bin\Debug\PaintOOP.exe.config
+c:\users\acer\source\repos\PaintOOP\PaintOOP\bin\Debug\PaintOOP.exe
+c:\users\acer\source\repos\PaintOOP\PaintOOP\bin\Debug\PaintOOP.pdb
+c:\users\acer\source\repos\PaintOOP\PaintOOP\bin\Debug\Keyoti.RapidSpell.NET4.dll
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.csprojResolveAssemblyReference.cache
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.Form1.resources
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.Properties.Resources.resources
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.csproj.GenerateResource.Cache
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.exe.licenses
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.exe
+c:\users\acer\source\repos\PaintOOP\PaintOOP\obj\Debug\PaintOOP.pdb

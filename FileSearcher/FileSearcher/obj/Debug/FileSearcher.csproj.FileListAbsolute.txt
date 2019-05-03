@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.config
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Form1.resources
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
+C:\Users\Acer\source\repos\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache

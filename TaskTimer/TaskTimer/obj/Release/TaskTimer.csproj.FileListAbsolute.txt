@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\bin\Release\TaskTimer.exe.config
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\bin\Release\TaskTimer.exe
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\bin\Release\TaskTimer.pdb
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.Form1.resources
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.Properties.Resources.resources
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.TaskManager.resources
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.csproj.GenerateResource.Cache
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.exe
+C:\Users\Acer\source\repos\TaskTimer\TaskTimer\obj\Release\TaskTimer.pdb

@@ -1,0 +1,11 @@
+c:\users\acer\source\repos\TaskTimer\TaskTimer\bin\Debug\TaskTimer.exe.config
+c:\users\acer\source\repos\TaskTimer\TaskTimer\bin\Debug\TaskTimer.exe
+c:\users\acer\source\repos\TaskTimer\TaskTimer\bin\Debug\TaskTimer.pdb
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.Form1.resources
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.Properties.Resources.resources
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.TaskManager.resources
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.csproj.GenerateResource.Cache
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.exe
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.pdb
+c:\users\acer\source\repos\TaskTimer\TaskTimer\obj\Debug\TaskTimer.csprojResolveAssemblyReference.cache
